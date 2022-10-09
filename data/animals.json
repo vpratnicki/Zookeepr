@@ -109,6 +109,17 @@
         "zany"
       ],
       "id": "10"
+    },
+    {
+      "name": "Charles",
+      "species": "Cat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving"
+      ],
+      "id": "18"
     }
   ]
 }
